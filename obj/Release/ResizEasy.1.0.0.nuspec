@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>ResizEasy</id>
+    <version>1.0.0</version>
+    <authors>ResizEasy</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0-windows10.0.22000" />
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net6.0-windows10.0.22000">
+        <frameworkReference name="Microsoft.WindowsDesktop.App" />
+      </group>
+    </frameworkReferences>
+    <contentFiles>
+      <files include="any/net6.0-windows10.0.22000/Logo.ico" buildAction="Content" />
+    </contentFiles>
+  </metadata>
+  <files>
+    <file src="D:\ResizEasy\bin\Release\net6.0-windows10.0.22000.0\ResizEasy.runtimeconfig.json" target="lib\net6.0-windows10.0.22000\ResizEasy.runtimeconfig.json" />
+    <file src="D:\ResizEasy\bin\Release\net6.0-windows10.0.22000.0\ResizEasy.dll" target="lib\net6.0-windows10.0.22000\ResizEasy.dll" />
+    <file src="D:\ResizEasy\Logo.ico" target="content\Logo.ico" />
+    <file src="D:\ResizEasy\Logo.ico" target="contentFiles\any\net6.0-windows10.0.22000\Logo.ico" />
+  </files>
+</package>

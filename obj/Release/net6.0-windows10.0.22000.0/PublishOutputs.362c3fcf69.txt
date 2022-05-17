@@ -1,0 +1,7 @@
+C:\Users\User-B.I.G._03\Desktop\Новая папка\ResizEasy.exe
+C:\Users\User-B.I.G._03\Desktop\Новая папка\ResizEasy.dll
+C:\Users\User-B.I.G._03\Desktop\Новая папка\ResizEasy.deps.json
+C:\Users\User-B.I.G._03\Desktop\Новая папка\ResizEasy.runtimeconfig.json
+C:\Users\User-B.I.G._03\Desktop\Новая папка\ResizEasy.pdb
+C:\Users\User-B.I.G._03\Desktop\Новая папка\Microsoft.Windows.SDK.NET.dll
+C:\Users\User-B.I.G._03\Desktop\Новая папка\WinRT.Runtime.dll

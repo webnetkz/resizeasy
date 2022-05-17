@@ -1,0 +1,7 @@
+D:\ResizEasy\bin\publish\ResizEasy.exe
+D:\ResizEasy\bin\publish\ResizEasy.dll
+D:\ResizEasy\bin\publish\ResizEasy.deps.json
+D:\ResizEasy\bin\publish\ResizEasy.runtimeconfig.json
+D:\ResizEasy\bin\publish\ResizEasy.pdb
+D:\ResizEasy\bin\publish\Microsoft.Windows.SDK.NET.dll
+D:\ResizEasy\bin\publish\WinRT.Runtime.dll
